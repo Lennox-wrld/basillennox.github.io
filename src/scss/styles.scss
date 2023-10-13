@@ -11,3 +11,9 @@
 // Import Custom Component Styles
 @import "components/feature";
 @import "components/profile";
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
